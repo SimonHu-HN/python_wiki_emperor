@@ -56,6 +56,7 @@ wiki_emperor/
 
 ```
 $ cd wiki_emperor
+$ pip install -r requirements.txt
 $ python Main.py
 $ python Main.py -t -s # for elasped time/ silence mode
 $ python Main.py -h # for help
