@@ -44,7 +44,7 @@ wiki_emperor/
 ├── emperor.py //主要功能
 ├── Main.py //入口
 ├── Main_simple.py //方便IDE环境的入口
-├── requirements.txt //方便IDE环境的入口
+├── requirements.txt //pip install -r  requirements.txt
 └── test.py
 
 ```
