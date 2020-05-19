@@ -1,6 +1,7 @@
 ## 爬虫维基百科中国皇帝系谱图
 
-[![Build with python3.5](https://img.shields.io/badge/build%20with-python%203.5-green.svg)](https://www.python.org/downloads/release/python-350/)
+[![Build with python3.5](https://img.shields.io/badge/build%20with-python%203.5-green.svg)](https://www.python.org/downloads/release/python-350/)[![Build Status](https://travis-ci.com/SimonHu-HN/wiki_emperor.svg?branch=master)](https://travis-ci.com/SimonHu-HN/wiki_emperor)
+
 
 ---
 
