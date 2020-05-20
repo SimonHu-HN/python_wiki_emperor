@@ -20,7 +20,8 @@
 各位如果有热爱历史的，但是对爬虫方面不太熟悉的可以借鉴一下我的这个爬取工程，按照使用说明进行使用，就可以在自己的电脑里生成一整套较为完整的中国皇帝系谱图，方便各位查阅历史人物与了解文化传承。（另外我对生成的md文件中的各个点击链接做了优化，可以直接跳转到维基百科的官方页面，方便使用者了解感兴趣人物的详细资料。
 
 新手操作，练手之用。如有建议，欢迎留言。
-.....................................................
+
+..........................................................................................................
 
 You can use this project to generate the completed pedigree tree of Chinese emperors. The type of the output file is markdown.
 All of the data were obtained from the [wiki website](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%90%9B%E4%B8%BB%E4%B8%96%E7%B3%BB%E5%9B%BE)
@@ -75,9 +76,8 @@ $ python Main.py -h # for help
 #Notice：由于是在wiki百科上爬取东西，你应该需要用一下自己的代理，在config.py中的proxies选项里将地址换成自己的服务器地址，切记不要直接就开始跑程序了
 # 如果你不需要代理，就把proxies处保持留空。
 # If you don't need the proxies, just keep the empty.
-#file config.py
 
-
+# file config.py
 """
     use your own proxy server (support socks)
     'http': 'socks5://xxxx:5555',
@@ -85,12 +85,11 @@ $ python Main.py -h # for help
     -------
     'http': '127.0.0.1:5556',
     'https': '127.0.0.1:5556'
-
+"""
 
 proxies = {
 
 }
-"""
 
 ```
 
