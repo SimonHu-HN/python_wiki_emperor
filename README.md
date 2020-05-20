@@ -3,6 +3,8 @@
 
 [![Build with python3.5](https://img.shields.io/badge/build%20with-python%203.5-green.svg)](https://www.python.org/downloads/release/python-350/)
 [![Build Status](https://travis-ci.com/SimonHu-HN/wiki_emperor.svg?branch=master)](https://travis-ci.com/SimonHu-HN/wiki_emperor)
+[![CodeFactor](https://www.codefactor.io/repository/github/simonhu-hn/wiki_emperor/badge/master)](https://www.codefactor.io/repository/github/simonhu-hn/wiki_emperor/overview/master)
+[![codecov](https://codecov.io/gh/SimonHu-HN/wiki_emperor/branch/master/graph/badge.svg)](https://codecov.io/gh/SimonHu-HN/wiki_emperor)
 
 
 ---
