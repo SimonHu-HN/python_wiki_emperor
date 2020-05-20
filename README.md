@@ -106,6 +106,8 @@ proxies = {
 
 ![image-20200519195711665](https://raw.githubusercontent.com/SimonHu-HN/GoPic_Private/master/img/image-20200519195711665.png)
 
+(上图使用的是typora进行阅览，主题样式为[softgreen](http://theme.typora.io/theme/softgreen/))
+
 ### DIY：
 
 ---
