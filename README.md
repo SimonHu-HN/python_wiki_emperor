@@ -12,6 +12,9 @@
 ### 介绍/Introduction：
 
 ---
+Look forward to your star if it can help you :star2:
+
+如有帮助与您，可予star:star2:
 
 ![2](https://raw.githubusercontent.com/SimonHu-HN/GoPic_Private/master/img/2.gif)
 
